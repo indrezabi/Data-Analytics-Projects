@@ -357,6 +357,7 @@ In the output for these customers divide their address line into two columns, i.
 | AddressLine1       | address_no | Address_st     |
 |--------------------|------------|----------------|
 | '8603 Elmhurst Lane' | 8603       | Elmhurst Lane  |
+
 Order the output by country, state and date_last_order.
 ### Solution 1.4
 ```
