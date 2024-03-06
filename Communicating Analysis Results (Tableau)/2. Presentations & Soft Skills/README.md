@@ -26,6 +26,6 @@ To provide the analysis, I extracted additional data. The SQL codes and their re
 [Dashboard](https://public.tableau.com/app/profile/indre.zabielaite/viz/SalesDashboardV2_17024792296110/SALES).
 
 ### Executives
-[Presentation] (https://my.visme.co/view/dmzjr7rg-executives-v2);
+[Presentation](https://my.visme.co/view/dmzjr7rg-executives-v2);
 
-[Dashboard] (https://public.tableau.com/app/profile/indre.zabielaite/viz/ExecutivesDashboardV2/EXECUTIVES).
+[Dashboard](https://public.tableau.com/app/profile/indre.zabielaite/viz/ExecutivesDashboardV2/EXECUTIVES).
