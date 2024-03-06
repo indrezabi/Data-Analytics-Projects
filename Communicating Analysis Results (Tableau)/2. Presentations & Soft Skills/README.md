@@ -20,8 +20,22 @@ Assurance and self-confidence.
 ### Additional information
 To provide the analysis, I extracted additional data. The SQL codes and their results are provided [HERE](https://docs.google.com/spreadsheets/d/113ZUbRJLcGSCO4zZSBTUo-M46T_tAruQEMcLfMxZjB4/edit?usp=sharing).
 ### Sales Department Leads
+<<<<<<< HEAD
+[Presentation](https://my.visme.co/view/q6vz1m1d-sales-team-v2)
+<br>
+
+[Dashboard](https://public.tableau.com/app/profile/indre.zabielaite/viz/SalesDashboardV2_17024792296110/SALES)
+=======
 [Presentation](https://my.visme.co/view/q6vz1m1d-sales-team-v2)
 [Dashboard](https://public.tableau.com/app/profile/indre.zabielaite/viz/SalesDashboardV2_17024792296110/SALES)
+>>>>>>> cacc3f64f99ab0e1beb0bf29906e34eeb7007282
 ### Executives
+<<<<<<< HEAD
+[Presentation](https://my.visme.co/view/dmzjr7rg-executives-v2)
+<br>
+
+[Dashboard](https://public.tableau.com/app/profile/indre.zabielaite/viz/ExecutivesDashboardV2/EXECUTIVES)
+=======
 [Presentation] (https://my.visme.co/view/dmzjr7rg-executives-v2)
 [Dashboard] (https://public.tableau.com/app/profile/indre.zabielaite/viz/ExecutivesDashboardV2/EXECUTIVES)
+>>>>>>> cacc3f64f99ab0e1beb0bf29906e34eeb7007282
