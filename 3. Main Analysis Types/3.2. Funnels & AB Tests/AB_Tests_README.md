@@ -1,4 +1,4 @@
-### A/B Tests
+# A/B Tests
 ## Instructions
 You have a follow up task from your marketing manager. She does not trust the A/B test data you calculated previously looking at “NewYear” and “BlackFriday” campaigns and testing if versions had significantly different clickthrough rate (Clicks/Impressions). She thinks that the clicks were not tracked properly and those numbers are wrong, though she trusts that number of impressions are correct.
 
@@ -15,11 +15,7 @@ She asks you to come up with an alternative way to estimate how many people actu
 The whole project can be found [here](https://docs.google.com/spreadsheets/d/1k9xmx-hx6VVGh2tO3eJbJye3WEg8UxtpO2y52kFje7s/edit?usp=sharing).
 
 ### Black Friday Campaign (2020 11) V1 VS V2
-![Alt text](image-2.png)
-
-![Alt text](image-5.png)
+![Alt text](image-6.png)
 
 ### New Year Campaign (2021 01) V1 VS V2
-![Alt text](image-3.png)
-
-![Alt text](image-4.png)
+![Alt text](image-7.png)
