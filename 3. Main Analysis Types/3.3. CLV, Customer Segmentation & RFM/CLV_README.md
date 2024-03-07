@@ -24,7 +24,7 @@ Next, the focus is on the future and try to predict the missing data. In this ca
 ![Alt text](image-4.png)
 ### Insights:	
 1)	The estimated customer lifetime value, considering a 12-week scenario, is $1.4708. This calculation includes all customers, including those who did not make any purchases. This approach provides a more realistic metric compared to only accounting for customers who made purchases.
-2)	The analysis indicates that we can anticipate earning only 35 cents per customer for the last week of the 12-week period.
+2)	The analysis indicates that we can anticipate earning only 35 cents per customer for the last week of the 12-week period. 
 
 ### Recommendations:	
 1)	Based on the data, it is evident that there is a need to enhance our marketing efforts, particularly in targeting customers during later periods. Implementing promotions could prove effective in boosting potential future spending.
