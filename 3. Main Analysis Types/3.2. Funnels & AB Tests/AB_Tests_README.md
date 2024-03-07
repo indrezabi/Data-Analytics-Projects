@@ -1,0 +1,41 @@
+### A/B Tests
+## Instructions
+You have a follow up task from your marketing manager. She does not trust the A/B test data you calculated previously looking at “NewYear” and “BlackFriday” campaigns and testing if versions had significantly different clickthrough rate (Clicks/Impressions). She thinks that the clicks were not tracked properly and those numbers are wrong, though she trusts that number of impressions are correct.
+
+She asks you to come up with an alternative way to estimate how many people actually clicked on those banners from marketing “NewYear” and “BlackFriday” campaigns. You remember that you also have website tracking data in turing_data_analytics.raw_events table and you decide to estimate the number of users who clicked on marketing campaigns banners from this data, by calculating unique users who had at least one page view. So you join your original data of marketing campaigns from turing_data_analytics.adsense_monthly with this table and replace original clicks tracked by adsense data with your new estimate - the number of unique users these marketing campaigns brought to your website.
+
+
+### Task requirements:
+1. You should prepare SQL query which would pull all data needed and similarly as before estimate if different variants of marketing campaigns (V1 vs V2) for both “NewYear” and “BlackFriday” campaigns had significantly better clickthrough rates (estimated as: number of users who clicked on campaign / number of impressions).
+- For now you can ignore timing of user tracking data, you do not need to check if those sessions were recorded when the marketing campaign was running.
+2. Run the A/B testing on the results from your query.
+3. Add visualizations to help illustrate A/B testing results.
+
+## Solution
+The whole project can be found [here](https://docs.google.com/spreadsheets/d/1k9xmx-hx6VVGh2tO3eJbJye3WEg8UxtpO2y52kFje7s/edit?usp=sharing).
+
+### Black Friday Campaign (2020 11) V1 VS V2
+![Alt text](image-2.png)
+
+H0:	There is no significant difference in conversion rates between BlackFriday_V1 and BlackFirday_V2.
+HA:	There is a significant difference in conversion rates between BlackFriday_V1 and BlackFriday_V2.
+	
+Conclusions:	
+1)	Our calculated p-value = 0.6299 which is > 0.05, therefore we fail to reject the H0 with 95% confidence, so there is no significant difference in conversion rates between BlackFriday_V1 and BlackFirday_V2.
+	Results are not significant with 95% confidence, which means that out of 100 samples from each distribution more than 5 will be a false positive.
+	
+2)	The Binomial A/B test calculator shows that: Variant (BlackFriday_V2) has a 32.67% probability to be better than control (BlackFriday_V1).
+5)	Conversion rate for control (BlackFriday_V1) is 0.07%, for variant (BlackFriday_V2) 0.06%.
+
+### New Year Campaign (2021 01) V1 VS V2
+![Alt text](image-3.png)
+
+H0:	There is no significant difference in conversion rates between NewYear_V1 and NewYear_V2.
+HA:	There is a significant difference in conversion rates between NewYear_V1 and NewYear_V2.
+	
+Conclusions:	
+1)	Our calculated p-value = 0.99, which is >0.01, therefore we fail to reject the H0 with 99% confidence, so there is no significant difference in conversion rates between NewYear_V1 and NewYear_V2.
+	Results are significant with 99% confidence, which means that out of 100 samples from each distribution less than 1 will be a false positive.
+	
+2)	The Binomial A/B test calculator shows that: Variant (NewYear_V2) has 0% probability to be better than control (NewYear_V1).
+3)	Conversion rate for variant (NewYear_V2) is 0.23%, for control (NewYear_V1) 1.29%.
