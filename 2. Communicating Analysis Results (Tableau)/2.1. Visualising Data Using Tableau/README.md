@@ -14,4 +14,4 @@ In this project, I received the Adventure Works Sales Orders dataset, which cons
 The query for additional information can be found [here](https://docs.google.com/spreadsheets/d/1sTZreLcg6V1U8vV0JJtcrymoWPArVsfzLFoiR_nEitQ/edit?usp=sharing).
 
 ### Tableau report
-Tableau report of this analysis can be found [here](https://public.tableau.com/app/profile/indre.zabielaite/viz/M2S1P5finalv8/Dashboard?publish=yes)
+Tableau report of this analysis can be found [here](https://public.tableau.com/app/profile/indre.zabielaite/viz/M2S1P5finalv8/Dashboard?publish=yes).
