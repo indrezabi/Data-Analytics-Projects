@@ -21,9 +21,8 @@ The whole project can be found [here](https://docs.google.com/spreadsheets/d/1-S
 5)	Surprisingly, 23% of users who successfully added payment information failed to finalize the purchase. Investigating the factors contributing to this abandonment could provide valuable insights.				
 6)	Out of 1000 visitors, only 17 successfully completed a purchase in the final stage.			
 
-Insights:							
-1)	The TOP 3 countries contributing to the majority of events in our dataset are the United States, India, and Canada.						
-	The US holds a strong lead with 72% of users, outpacing India (15%) and Canada (13%)						
-2)	An analysis of the TOP 3 countries' funnels reveals no significant variations in user behavior at each step.						
-3)	Canada stands out with the highest conversion rate across all funnel steps.						
-	In the US, 1.64% of visitors successfully complete the purchase journey. In India 1.6%, in Canada 1.75% conversion rate.						
+![Alt text](image-1.png)
+### Insights:							
+1)	The TOP 3 countries contributing to the majority of events in our dataset are the United States, India, and Canada. The US holds a strong lead with 72% of users, outpacing India (15%) and Canada (13%)
+2)	An analysis of the TOP 3 countries' funnels reveals no significant variations in user behavior at each step.
+3)	Canada stands out with the highest conversion rate across all funnel steps.	In the US, 1.64% of visitors successfully complete the purchase journey. In India 1.6%, in Canada 1.75% conversion rate.						
