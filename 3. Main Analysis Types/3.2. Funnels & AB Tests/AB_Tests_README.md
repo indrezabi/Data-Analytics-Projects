@@ -17,25 +17,9 @@ The whole project can be found [here](https://docs.google.com/spreadsheets/d/1k9
 ### Black Friday Campaign (2020 11) V1 VS V2
 ![Alt text](image-2.png)
 
-H0:	There is no significant difference in conversion rates between BlackFriday_V1 and BlackFirday_V2.
-HA:	There is a significant difference in conversion rates between BlackFriday_V1 and BlackFriday_V2.
-	
-Conclusions:	
-1)	Our calculated p-value = 0.6299 which is > 0.05, therefore we fail to reject the H0 with 95% confidence, so there is no significant difference in conversion rates between BlackFriday_V1 and BlackFirday_V2.
-	Results are not significant with 95% confidence, which means that out of 100 samples from each distribution more than 5 will be a false positive.
-	
-2)	The Binomial A/B test calculator shows that: Variant (BlackFriday_V2) has a 32.67% probability to be better than control (BlackFriday_V1).
-5)	Conversion rate for control (BlackFriday_V1) is 0.07%, for variant (BlackFriday_V2) 0.06%.
+![Alt text](image-5.png)
 
 ### New Year Campaign (2021 01) V1 VS V2
 ![Alt text](image-3.png)
 
-H0:	There is no significant difference in conversion rates between NewYear_V1 and NewYear_V2.
-HA:	There is a significant difference in conversion rates between NewYear_V1 and NewYear_V2.
-	
-Conclusions:	
-1)	Our calculated p-value = 0.99, which is >0.01, therefore we fail to reject the H0 with 99% confidence, so there is no significant difference in conversion rates between NewYear_V1 and NewYear_V2.
-	Results are significant with 99% confidence, which means that out of 100 samples from each distribution less than 1 will be a false positive.
-	
-2)	The Binomial A/B test calculator shows that: Variant (NewYear_V2) has 0% probability to be better than control (NewYear_V1).
-3)	Conversion rate for variant (NewYear_V2) is 0.23%, for control (NewYear_V1) 1.29%.
+![Alt text](image-4.png)
