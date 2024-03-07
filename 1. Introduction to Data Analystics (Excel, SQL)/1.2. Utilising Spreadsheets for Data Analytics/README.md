@@ -20,4 +20,4 @@ It would be nice for business to have an overview of:
 4. Top sales reasons
 
 ## Solution
-The whole project can be found [here](https://docs.google.com/spreadsheets/d/1_S5zzuAQjFT6jDHyLAQtIqq-2wGr8VPkoXleWMm0aps/edit?usp=sharing ).
+The whole project can be found [here](https://docs.google.com/spreadsheets/d/1_S5zzuAQjFT6jDHyLAQtIqq-2wGr8VPkoXleWMm0aps/edit?usp=sharing ). Check "Overview" tab.
