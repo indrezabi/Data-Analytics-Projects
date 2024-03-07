@@ -9,6 +9,8 @@ You should use turing_data_analytics.subscriptions table to answer this question
 ## Results, Insights and Actionable Recommendations
 The whole project (including SQL code, results, visualisations and insights) can be found [here](https://docs.google.com/spreadsheets/d/1K25ePb0APzBJssqrQSDyXxwQ6pjX744LQNBmcQXEAls/edit?usp=sharing).
 
+![Alt text](image.png)
+
 ### Main insights:
 - Overall, customer retention showed a steady increase in the last two months of 2020, rising from 84.2% to 93.4% (after 6 weeks). However, there was a subsequent decline in the first months of 2021, with retention dropping by ~1-2%.
 - Starting from Dec 6, the Retention rate jumped to over 90% in all cohorts.
